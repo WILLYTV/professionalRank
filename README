@@ -1,1 +1,5 @@
-.
+Solução utilizando MEAN. Com as seguintes funcionalidades:
+
+- Login integrado ao facebook
+- Cadastro de profissional (link do perfil do face, categoria do serviço, etc)
+- Selecionar o profissional e avaliar
